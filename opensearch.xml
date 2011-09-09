@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>wpsnipp.com (code search)</ShortName>
+  <Description>Search wordpress code snippets</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>WP Snipp Search</LongName>
+  <Image height="16" width="16" type="image/x-icon">http://wpsnipp.com/favicon.ico</Image>
+  <Url type="text/html" method="get" template="http://wpsnipp.com/?s={searchTerms}"/>
+</OpenSearchDescription>
